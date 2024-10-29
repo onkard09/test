@@ -1,1 +1,1 @@
-Sample pplaywright repo
+Sample playwright repo
